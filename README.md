@@ -1,4 +1,4 @@
-# Latihan EDA — Exploratory Data Analysis with Python Cookbook
+# Latihan EDA
 
 Latihan praktis berdasarkan buku **"Exploratory Data Analysis with Python Cookbook"** oleh Ayodele Oluleye.
 
